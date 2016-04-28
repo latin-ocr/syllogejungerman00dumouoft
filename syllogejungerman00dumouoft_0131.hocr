@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./syllogejungerman00dumouoft_0131.png"; bbox 0 0 1875 3278; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1268 0 1637 51">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1268 0 1637 51">
+     <span class='ocr_line' id='line_1_1' title="bbox 1268 0 1637 37; baseline -0.019 -27"><span class='ocrx_word' id='word_1_1' title='bbox 1268 7 1270 10; x_wconf 78' lang='grc'>,</span> <span class='ocrx_word' id='word_1_2' title='bbox 1310 0 1606 37; x_wconf 36' lang='lat' dir='ltr'>1⁸¹33lft&#39;s‘s.</span> <span class='ocrx_word' id='word_1_3' title='bbox 1635 0 1637 3; x_wconf 91' lang='lat'>.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1350 37 1562 51; baseline 0 -8"><span class='ocrx_word' id='word_1_4' title='bbox 1350 38 1370 50; x_wconf 46' lang='grc' dir='ltr'>,Ι</span> <span class='ocrx_word' id='word_1_5' title='bbox 1423 40 1427 51; x_wconf 74' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1516 47 1518 49; x_wconf 69' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_7' title='bbox 1558 37 1562 46; x_wconf 79' lang='grc'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1364 3278">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1364 3278">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1364 3278; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1364 3278; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
